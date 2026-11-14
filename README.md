@@ -1,4 +1,4 @@
-# Execution Quality of U.S. Equity Wholesalers (SEC Rule 605)
+# Retail Order Execution Quality at the Top Five U.S. Wholesalers
 
 Code, results and figures from my bachelor thesis at LMU Munich (Institute for Financial Innovation & Technology, winter semester 2025/26):
 **"Execution Quality in the U.S. Equity Market: A Comparative Analysis of the Top Five Wholesalers"**, graded 1.0 (the top grade in the German system).
